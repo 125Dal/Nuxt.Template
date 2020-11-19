@@ -4,9 +4,9 @@ module.exports = {
     'stylelint-config-recess-order',
     'stylelint-config-recommended-scss',
     'stylelint-config-prettier',
-    'stylelint-prettier/recommended',
+    'stylelint-prettier/recommended'
   ],
   // add your custom config here
   // https://stylelint.io/user-guide/configuration
-  rules: {},
+  rules: {}
 }
